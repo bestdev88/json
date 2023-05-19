@@ -1,0 +1,29 @@
+{
+  "name": "Omchain Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+  "keywords": ["omchain", "tokens"],
+  "timestamp": "2023-02-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "My Token",
+      "address": "0xe978975A7DbDB9362C0139F58a91C8AEa1A1C29B",
+      "symbol": "MTK",
+      "decimals": 18,
+      "chainId": 21816,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x2ba592f78db6436527729929aaf6c908497cb200.png"
+    },
+    {
+      "name": "Other Token",
+      "address": "0x01e9DdFa798Cc40bb3a953603Dd0939427Da838A",
+      "symbol": "OTK",
+      "decimals": 18,
+      "chainId": 21816,
+      "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x514910771af9ca656af840dff83e8264ecf986ca.png"
+    }
+  ]
+}
